@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17919#The-story-of-Burnt-Njal--From-the-Icelandic-of-the-Njals-Saga
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-03-04'
 gutenberg_type: Text
