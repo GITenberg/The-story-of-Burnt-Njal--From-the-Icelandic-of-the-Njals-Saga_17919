@@ -1,0 +1,30 @@
+_repo: The-story-of-Burnt-Njal--From-the-Icelandic-of-the-Njals-Saga_17919
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dasent, George Webbe, Sir
+    alias: Dasent, G. W.
+    birthdate: 1817
+    deathdate: 1896
+    gutenberg_agent_id: '2936'
+    url: http://www.gutenberg.org/2009/agents/2936
+    wikipedia: http://en.wikipedia.org/wiki/George_Webbe_Dasent
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17919'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sagas -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Njáll Thorgursson, approximately 930-1011'
+title: 'The story of Burnt Njal: From the Icelandic of the Njals Saga'
+url: http://www.gutenberg.org/ebooks/17919
